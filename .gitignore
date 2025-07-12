@@ -1,0 +1,9 @@
+go.work
+go.work.sum
+
+main
+main.exe
+
+manifest/config/config.toml
+
+log

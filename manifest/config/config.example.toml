@@ -1,0 +1,10 @@
+[App]
+
+[Server]
+Address = ":8080"
+ReadTimeout = "10s"
+ReadHeaderTimeout = "0s"
+WriteTimeout = "20s"
+IdleTimeout = "60s"
+MaxHeaderBytes = 1048576
+ShutdownTimeout = "60s"
