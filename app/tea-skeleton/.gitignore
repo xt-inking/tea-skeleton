@@ -1,0 +1,4 @@
+cmd/server/grpc/main
+cmd/server/http/main
+manifest/config/config.toml
+log
